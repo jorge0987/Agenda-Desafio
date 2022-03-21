@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --color-slate-blue: #6A5ACD;
+    --color-light-slate-blue: #8470FF;
+    --color-dark-slate-blue: #483D8B;
+    --color-royal-blue: #4169E1;
+    --color-deep-sky-blue: #00BFFF;
+    --color-slate-gray: #708090;	
+    --color-light-slate-gray: #778899;
+    --color-navy: #000080;
+    --branco: #fff;
+}
